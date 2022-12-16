@@ -1,8 +1,9 @@
 {
-  "name": "mytheme",
-  "displayName": "MyTheme",
+  "name": "custom-dark",
+  "displayName": "Custom-Dark",
   "description": "My first custom theme!",
   "version": "0.0.1",
+  "publisher": "iAldo80",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -12,9 +13,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "MyTheme",
+        "label": "Custom-Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/MyTheme-color-theme.json"
+        "path": "./themes/Custom-Dark-color-theme.json"
       }
     ]
   }
