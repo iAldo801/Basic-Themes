@@ -11,7 +11,9 @@
 		"list.activeSelectionBackground": "#32caa98e",
 		"list.activeSelectionForeground": "#ffffff",
 		"activityBar.background": "#0000004f",
-		"statusBar.background": "#0000004f"
+		"statusBar.background": "#0000004f",
+		"button.background": "#4442426c",
+		"titleBar.activeBackground": "#0000004f"
 	},
 	"tokenColors": [
 		{
