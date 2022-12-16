@@ -1,0 +1,21 @@
+{
+  "name": "mytheme",
+  "displayName": "MyTheme",
+  "description": "My first custom theme!",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "MyTheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/MyTheme-color-theme.json"
+      }
+    ]
+  }
+}
