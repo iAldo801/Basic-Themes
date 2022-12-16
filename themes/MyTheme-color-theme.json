@@ -9,7 +9,7 @@
 		"sideBar.background": "#0000000D",
 		"editor.selectionBackground": "#32caa98e",
 		"list.activeSelectionBackground": "#32caa98e",
-		"list.activeSelectionForeground": "#ffffff",
+		"list.activeSelectionForeground": "#8f3131",
 	},
 	"tokenColors": [
 		{
