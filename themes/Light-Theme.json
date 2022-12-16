@@ -1,6 +1,6 @@
 {
-	"name": "Custom Dark",
-	"type": "dark",
+	"name": "Basic Theme (Light)",
+	"type": "light",
 	"colors": {
 		"editor.background": "#0000004f",
 		"editor.foreground": "#f0e0e0",
@@ -12,8 +12,10 @@
 		"list.activeSelectionForeground": "#ffffff",
 		"activityBar.background": "#0000004f",
 		"statusBar.background": "#0000004f",
+		"statusBar.noFolderBackground": "#0000004f",
 		"button.background": "#4442426c",
-		"titleBar.activeBackground": "#0000004f"
+		"titleBar.activeBackground": "#0000004f",
+		"statusBar.debuggingBackground": "#0000004f"
 	},
 	"tokenColors": [
 		{

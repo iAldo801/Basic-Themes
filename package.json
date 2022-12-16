@@ -1,9 +1,10 @@
 {
-  "name": "custom-dark",
-  "displayName": "Custom-Dark",
-  "description": "My first custom theme!",
-  "version": "0.0.2",
+  "name": "basic-themes",
+  "displayName": "Basic Themes",
+  "description": "Basic themes for VS Code",
+  "version": "0.0.5",
   "publisher": "iAldo80",
+  "icon": "./img/logo.png",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -13,9 +14,8 @@
   "contributes": {
     "themes": [
       {
-        "label": "Custom-Dark",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Custom-Dark-color-theme.json"
+        "label": "Basic Themes (Dark)",
+        "path": "./themes/Dark-Theme.json"
       }
     ]
   }
