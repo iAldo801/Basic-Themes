@@ -1,9 +1,5 @@
 # Change Log
 
-All notable changes to the "mytheme" extension will be documented in this file.
+- Fixed some color issues and working on a new theme 
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+- Also changed the name of the project :)

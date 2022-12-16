@@ -1,10 +1,9 @@
 {
-  "name": "basic-themes",
-  "displayName": "Basic Themes",
-  "description": "Basic themes for VS Code",
+  "name": "custom-dark",
+  "displayName": "Custom-Dark",
+  "description": "Dark theme",
   "version": "0.0.5",
   "publisher": "iAldo80",
-  "icon": "./img/logo.png",
   "engines": {
     "vscode": "^1.74.0"
   },
