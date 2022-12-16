@@ -2,14 +2,16 @@
 	"name": "MyTheme",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#0000000D",
+		"editor.background": "#0000004f",
 		"editor.foreground": "#f0e0e0",
-		"activityBarBadge.background": "#0000007c",
+		"activityBarBadge.background": "#0000004f",
 		"sideBarTitle.foreground": "#ffffff",
-		"sideBar.background": "#0000000D",
+		"sideBar.background": "#0000004f",
 		"editor.selectionBackground": "#32caa98e",
 		"list.activeSelectionBackground": "#32caa98e",
-		"list.activeSelectionForeground": "#8f3131",
+		"list.activeSelectionForeground": "#ffffff",
+		"activityBar.background": "#0000004f",
+		"statusBar.background": "#0000004f"
 	},
 	"tokenColors": [
 		{
