@@ -1,23 +1,61 @@
 {
 	"name": "Basic Theme (Dark)",
 	"type": "dark",
+	"$schema": "vscode://schemas/color-theme",
 	"colors": {
-		"editor.background": "#2a4f5e0A",
-		"editor.foreground": "#f0e0e0",
+
+		// Sidebar Stuff
+		"sideBar.background": "#2a4f5e23",
 		"sideBarTitle.foreground": "#ffffff",
-		"sideBar.background": "#2a4f5e2E",
+		// End of Sidebar
+// --------------------------------------------------------------------
+		// Editor Stuff
+
+		"editor.background": "#2a4f5e0c",
+		"editor.foreground": "#f0e0e0",
+		
 		"editor.selectionBackground": "#32caa98e",
 		"editor.selectionForeground": "#ffffff",
+
+		"editorGroupHeader.tabsBackground": "#2a4f5e0c",
+		"editorGroupHeader.noTabsBackground": "#2a4f5e0c",
+
+		// End of Editor 
+// --------------------------------------------------------------------
+		// List stuff
+
 		"list.activeSelectionBackground": "#32caa98e",
 		"list.activeSelectionForeground": "#ffffff",
-		"activityBar.background": "#2a4f5e2E",
+
+		// End of List
+// --------------------------------------------------------------------
+		// ActivityBar stuff
+
+		"activityBar.background": "#2a4f5e23",
+
+		// End of Activity
+// --------------------------------------------------------------------
+		// StatusBar stuff
+
 		"statusBar.background": "#2a4f5e2E",
-		"statusBar.noFolderBackground": "#0000004f",
-		"button.background": "#4442426c",
-		"titleBar.activeBackground": "#2a4f5e0A",
+		"statusBar.noFolderBackground": "#2a4f5e2E",
 		"statusBar.debuggingBackground": "#0000004f",
-		"editorGroup.dropBackground": "#4442426c",
-		"welcomePage.background": "#2a4f5e0A"
+		"statusBarItem.remoteBackground": "#0000004f",
+
+		// End of Status
+// --------------------------------------------------------------------
+		// Button stuff
+		"button.background": "#4442426c",
+
+		// End of Button
+// --------------------------------------------------------------------
+		// Title stuff
+
+		"titleBar.activeBackground": "#2a4f5e0A",
+
+		// End of Title
+// --------------------------------------------------------------------
+
 	},
 	"tokenColors": [
 		{

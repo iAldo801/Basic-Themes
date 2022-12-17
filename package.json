@@ -6,7 +6,7 @@
   "publisher": "iAldo80",
   "icon": "img/logo.png",
   "engines": {
-    "vscode": "^1.74.0"
+    "vscode": "^1.73.0"
   },
   "categories": [
     "Themes"
@@ -14,12 +14,16 @@
   "contributes": {
     "themes": [
       {
-        "label": "Basic Themes (Dark)",
+        "label": "Basic Themes - (Dark)",
         "path": "./themes/Dark-Theme.json"
       },
       {
-        "label": "Basic Themes (Less Dark)",
+        "label": "Basic Themes - (Dark Aqua-ish)",
         "path": "./themes/Less_Dark-Theme.json"
+      },
+      {
+        "label": "Basic Themes - (NOT AVAILABLE YET) - (Blue Pastel)",
+        "path": "./themes/Blue_Pastel-Theme.json"
       }
     ]
   }

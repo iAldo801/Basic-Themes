@@ -1,6 +1,7 @@
 {
 	"name": "Basic Theme (Dark)",
 	"type": "dark",
+	"$schema": "vscode://schemas/color-theme",
 	"colors": {
 		"editor.background": "#0000004f",
 		"editor.foreground": "#f0e0e0",
@@ -14,7 +15,7 @@
 		"statusBar.noFolderBackground": "#0000004f",
 		"button.background": "#4442426c",
 		"titleBar.activeBackground": "#0000004f",
-		"statusBar.debuggingBackground": "#0000004f"
+		"statusBar.debuggingBackground": "#0000004f",
 	},
 	"tokenColors": [
 		{
