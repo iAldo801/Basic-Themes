@@ -1,3 +1,3 @@
 # Change Log
 
-- Nothing
+- Added a new theme (Less Dark)
