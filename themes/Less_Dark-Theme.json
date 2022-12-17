@@ -2,19 +2,22 @@
 	"name": "Basic Theme (Dark)",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#0000004f",
+		"editor.background": "#2a4f5e0A",
 		"editor.foreground": "#f0e0e0",
 		"sideBarTitle.foreground": "#ffffff",
-		"sideBar.background": "#0000004f",
+		"sideBar.background": "#2a4f5e2E",
 		"editor.selectionBackground": "#32caa98e",
+		"editor.selectionForeground": "#ffffff",
 		"list.activeSelectionBackground": "#32caa98e",
 		"list.activeSelectionForeground": "#ffffff",
-		"activityBar.background": "#0000004f",
-		"statusBar.background": "#0000004f",
+		"activityBar.background": "#2a4f5e2E",
+		"statusBar.background": "#2a4f5e2E",
 		"statusBar.noFolderBackground": "#0000004f",
 		"button.background": "#4442426c",
-		"titleBar.activeBackground": "#0000004f",
-		"statusBar.debuggingBackground": "#0000004f"
+		"titleBar.activeBackground": "#2a4f5e0A",
+		"statusBar.debuggingBackground": "#0000004f",
+		"editorGroup.dropBackground": "#4442426c",
+		"welcomePage.background": "#2a4f5e0A"
 	},
 	"tokenColors": [
 		{

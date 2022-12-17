@@ -16,6 +16,10 @@
       {
         "label": "Basic Themes (Dark)",
         "path": "./themes/Dark-Theme.json"
+      },
+      {
+        "label": "Basic Themes (Less Dark)",
+        "path": "./themes/Less_Dark-Theme.json"
       }
     ]
   }
