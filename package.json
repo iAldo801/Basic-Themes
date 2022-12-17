@@ -22,8 +22,8 @@
         "path": "./themes/Less_Dark-Theme.json"
       },
       {
-        "label": "Basic Themes - (NOT AVAILABLE YET) - (Blue Pastel)",
-        "path": "./themes/Blue_Pastel-Theme.json"
+        "label": "Basic Themes - (Light)",
+        "path": "./themes/Light-Theme.json"
       }
     ]
   }
