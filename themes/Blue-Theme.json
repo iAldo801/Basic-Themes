@@ -1,45 +1,43 @@
 {
-	"name": "Basic Theme (Dark)",
+	"name": "Basic Theme (Blue)",
 	"type": "dark",
 	"$schema": "vscode://schemas/color-theme",
 	"colors": {
 
 		// Sidebar Stuff
-		"sideBar.background": "#f7f0f0",
-		"sideBarTitle.foreground": "#000000",
-        "sideBar.foreground": "#000000",
+		"sideBar.background": "#0c182d",
+		"sideBarTitle.foreground": "#ffffff",
 		// End of Sidebar
 // --------------------------------------------------------------------
 		// Editor Stuff
 
-		"editor.background": "#fff",
+		"editor.background": "#0c182d",
 		"editor.foreground": "#ffffff",
 		
-		"editor.selectionBackground": "#080808ea",
-		"editor.selectionForeground": "#080808ea",
+		"editor.selectionBackground": "#32caa98e",
+		"editor.selectionForeground": "#ffffff",
 
-		"editorGroupHeader.tabsBackground": "#0a0a0a0c",
-		"editorGroupHeader.noTabsBackground": "#0a0a0a0c",
+		"editorGroupHeader.tabsBackground": "#00b7ff23",
+		"editorGroupHeader.noTabsBackground": "#32caa98e",
 
 		// End of Editor 
 // --------------------------------------------------------------------
 		// List stuff
 
-		"list.activeSelectionBackground": "#000000",
+		"list.activeSelectionBackground": "#32caa98e",
 		"list.activeSelectionForeground": "#ffffff",
-        "list.inactiveSelectionBackground": "#0000008a",
 
 		// End of List
 // --------------------------------------------------------------------
 		// ActivityBar stuff
 
-		"activityBar.background": "#000000",
-        
+		"activityBar.background": "#0c182d",
+
 		// End of Activity
 // --------------------------------------------------------------------
 		// StatusBar stuff
 
-		"statusBar.background": "#000000",
+		"statusBar.background": "#0c182d",
 		"statusBar.noFolderBackground": "#2a4f5e2E",
 		"statusBar.debuggingBackground": "#0000004f",
 		"statusBarItem.remoteBackground": "#0000004f",
@@ -47,24 +45,15 @@
 		// End of Status
 // --------------------------------------------------------------------
 		// Button stuff
-		"button.background": "#444242",
+		"button.background": "#444242c0",
 
 		// End of Button
 // --------------------------------------------------------------------
 		// Title stuff
 
-		"titleBar.activeBackground": "#ffffff",
-        "titleBar.activeForeground": "#000000",
+		"titleBar.activeBackground": "#0c182d",
 
 		// End of Title
-// --------------------------------------------------------------------
-        // EditorLine stuff
-
-        "editorLineNumber.activeForeground": "#1ea3f0",
-        "editorLineNumber.foreground": "#ff0000",
-		"extensionButton.background": "#000000",
-
-		// End of EditorLine
 // --------------------------------------------------------------------
 
 	},
@@ -87,7 +76,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#000000"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -211,7 +200,7 @@
 				"meta.group.braces.curly constant.other.object.key.js string.unquoted.label.js"
 			],
 			"settings": {
-				"foreground": "#f3a90a"
+				"foreground": "#C3E88D"
 			}
 		},
 		{
@@ -314,17 +303,6 @@
 				"foreground": "#FFCB6B"
 			}
 		},
-        {
-            "name": "Text Html - Derivative",
-            "scope": [
-                "text.html.derivative ",
-                "text.html.derivative"
-            ],
-            "settings": {
-                "fontStyle": "italic",
-                "foreground": "#000000"
-            }
-        },
 		{
 			"name": "CSS Classes",
 			"scope": [
@@ -696,13 +674,6 @@
 			"settings": {
 				"foreground": "#EEFFFF"
 			}
-		},
-        {
-            "name": "Entity",
-			"scope": [
-				// marketplace text description
-
-			]
-        },
+		}
 	]
 }

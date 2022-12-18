@@ -2,7 +2,7 @@
   "name": "basic-themes",
   "displayName": "Basic Themes",
   "description": "Basic themes for VS Code",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "publisher": "iAldo80",
   "icon": "img/logo.png",
   "engines": {
@@ -24,6 +24,10 @@
       {
         "label": "Basic Themes - (Light)",
         "path": "./themes/Light-Theme.json"
+      },
+      {
+        "label": "Basic Themes - (Blue)",
+        "path": "./themes/Blue-Theme.json"
       }
     ]
   }
